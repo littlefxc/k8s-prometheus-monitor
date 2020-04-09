@@ -1,4 +1,4 @@
-# prometheus-monitor-kubernetes
+# k8s-prometheus-monitor
 如何使用prometheus来监控kubernetes集群
 
 # 架构
