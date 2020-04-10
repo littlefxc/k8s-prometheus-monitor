@@ -13,6 +13,7 @@ spec:
       labels:
         app: grafana-dep
     spec:
+      nodeName: k8s-master-1
       containers:
       - name: grafana
         image: grafana/grafana:5.3.4
